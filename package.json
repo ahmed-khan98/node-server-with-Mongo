@@ -1,0 +1,26 @@
+{
+  "name": "server-with-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-khan98/node-server-with-Mongo.git"
+  },
+  "author": "ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-khan98/node-server-with-Mongo/issues"
+  },
+  "homepage": "https://github.com/ahmed-khan98/node-server-with-Mongo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  }
+}
